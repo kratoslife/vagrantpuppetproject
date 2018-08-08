@@ -1,0 +1,1 @@
+This project is for Vagrant Puppet which will contain scripts for deploy two VM's app and monitor.
